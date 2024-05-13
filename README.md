@@ -1,2 +1,2 @@
-# WebTasar-m
+# WebTasarim
 WebTeknolojileri projem
